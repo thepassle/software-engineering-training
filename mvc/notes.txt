@@ -1,0 +1,11 @@
+request.getParameter("pit"); geeft dus de VALUE terug, dus "pit1"
+
+		<div id="pit1" class="p1">
+            <form action="" method="post">
+                <input name="pit" type="submit" value="pit1">
+            </form>
+		</div>
+
+
+
+${sessionScope.pit.getContents()}

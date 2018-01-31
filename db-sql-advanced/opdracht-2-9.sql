@@ -1,0 +1,2 @@
+SELECT
+Employees.EmployeeID, Employees.LastName, Employees.FirstName, Employees.Title, ROUND(AVG([Order Details].Quantity*[Order Details].UnitPrice*(1-[Order Details].Discount)),2) AS 'Average Salesresult' FROM Employees INNER JOIN Orders ON Orders.EmployeeID=Employees.EmployeeID INNER JOIN [Order Details] ON [Order Details].OrderID=Orders.OrderID GROUP BY Employees.EmployeeID, Employees.LastName, Employees.FirstName, Employees.Title ORDER BY AVG([Order Details].Quantity*[Order Details].UnitPrice*(1-[Order Details].Discount)) DESC

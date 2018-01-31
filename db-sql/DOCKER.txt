@@ -1,0 +1,33 @@
+mysql -u root -p
+
+ CREATE DATABASE database name;
+
+ SHOW DATABASES;
+ USE events;
+ SHOW tables; 
+
+ DESCRIBE potluck;
+SELECT * FROM potluck
+
+
+
+root@localhost: <au-f(L_X7y_
+
+
+docker run -d --name sogyodb -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Velvvet007!' -e 'MSSQL_PID=Developer' -p 1433:1433 microsoft/mssql-server-linux:2017-latest
+
+docker run -d --name sql_server_demo -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Velvvet007!' -p 1433:1433 microsoft/mssql-server-linux
+
+docker run -d --name sql_server_demo -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Velvvet007!' -e 'MSSQL_PID=Developer' -p 1433:1433 microsoft/mssql-server-linux:2017-latest
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+$ docker run -d --name sql_server_demo -p 1433:1433 microsoft/mssql-server-linux
+
+
+
+
+
+http://database.guide/how-to-install-sql-server-on-a-mac/

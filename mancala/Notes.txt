@@ -1,0 +1,23 @@
+abstract class:
+vars
+
+je kan de constructor van pit ook gewoon in de
+abstract class knallen, en dan in kleinePit
+en Kalaha super roepen
+
+getters/setters hebben ze allebei nodig
+
+shared methods
+shared methods die anders zijn
+
+public abstract class Pit{
+    private int boardSize = 13;
+    private int contents;
+    private boolean isKalaha;
+
+    private Pit neighbour;
+    private Player player;
+
+
+}
+
