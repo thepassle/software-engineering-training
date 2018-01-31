@@ -1,0 +1,30 @@
+
+SET PASSWD FOR ROOT USER
+$ docker exec --user root -it f9c5e2ffa33a passwd
+
+LOG IN AS ROOT USER (/super)
+$ su
+
+$ apt-get install sudo
+$ sudo apt-get install maven
+
+$ sudo usermod -aG docker jenkins
+$ sudo chmod 777 /var/run/docker.sock
+
+
+
+
+https://github.com/thepassle/simple-java-maven-app
+
+1: In kitematic de jenkins image installeren
+2: docker ps, container Id pakken
+3: docker exec -it -u root 45ee486525a0 su
+	(als dat niet kan:
+		docker exec -it -u root 45ee486525a0 passwd
+	)
+
+apt-get update && apt-get install -y sudo && rm -rf /var/lib/apt/lists/*
+apt-get update && apt-get install -y maven
+
+
+mvn build-helper:parse-version versions:set -DnewVersion=\${parsedVersion.majorVersion}.\${parsedVersion.minorVersion}.\${parsedVersion.nextIncrementalVersion} versions:commit

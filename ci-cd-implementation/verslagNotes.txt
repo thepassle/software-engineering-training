@@ -1,0 +1,29 @@
+Getting the most from Docker, DevOps advantages
+https://codefresh.io/blog/integrate-docker-continuous-delivery-workflow/
+
+https://hackernoon.com/continuous-integration-a-war-story-e442ad463473?source=search_post&gi=901c32b2cfa1
+
+https://blog.getclef.com/continuous-integration-for-company-culture-ab87d44022e9
+
+https://medium.com/@Apiumhub/top-benefits-of-continuous-integration-ca2e230f371f
+
+
+CI/AGILE
+At the end of each day, they know that their contributions to the project are integrated and that the component parts work together. And if something doesn’t integrate, it’s quickly discovered.
+
+!!!!!!!!
+https://www.ibm.com/developerworks/rational/library/continuous-integration-agile-development/
+
+
+
+https://www.ibm.com/developerworks/rational/library/continuous-integration-agile-development/
+
+The anti-sparow chinese campaign (wiki extract):
+
+Mao ordering the mass killing of birds because he thought they would eat the corn off the farms and compromise the harvest. In the end the lack of birds lead to a explosive growth in parasite populations that destroyed the harvest completely in some areas. What followed was a massive famine killing millions.
+
+
+
+The campaign against the 'Four Pests' was initiated in 1958 as a hygiene campaign by Mao Zedong, who identified the need to exterminate mosquitoes, flies, rats, and sparrows. Sparrows – mainly the Eurasian tree sparrow[1][2] – were included on the list because they ate grain seeds, robbing the people of the fruits of their labour. The masses of China were mobilized to eradicate the birds, and citizens took to banging pots and pans or beating drums to scare the birds from landing, forcing them to fly until they fell from the sky in exhaustion. Sparrow nests were torn down, eggs were broken, and nestlings were killed.[1][3] Sparrows and other birds were shot down from the sky, resulting in the near-extinction of the birds in China.[4] Non-material rewards and recognition were offered to schools, work units and government agencies in accordance with the volume of pests they had killed.
+
+By April 1960, Chinese leaders realized that sparrows ate a large amount of insects, as well as grains.[3][2] Rather than being increased, rice yields after the campaign were substantially decreased.[1][2] Mao ordered the end of the campaign against sparrows, replacing them with bed bugs in the ongoing campaign against the Four Pests.[3] By this time, however, it was too late. With no sparrows to eat them, locust populations ballooned, swarming the country and compounding the ecological problems already caused by the Great Leap Forward, including widespread deforestation and misuse of poisons and pesticides.[1] Ecological imbalance is credited with exacerbating the Great Chinese Famine, in which at least 20 million people died of starvation.[5][6]
